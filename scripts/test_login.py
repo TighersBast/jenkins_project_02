@@ -1,5 +1,4 @@
 class TestLogin:
-
     def test_login1(self):
         assert 1
 
@@ -7,7 +6,25 @@ class TestLogin:
         assert 1
 
     def test_login3(self):
-        assert 0
+        assert 1
 
     def test_login4(self):
+        assert 1
+
+    def test_login5(self):
+        assert 1
+
+    def test_login6(self):
+        assert 1
+
+    def test_login7(self):
+        assert 1
+
+    def test_login8(self):
+        assert 1
+
+    def test_login9(self):
+        assert 1
+
+    def test_login10(self):
         assert 1
